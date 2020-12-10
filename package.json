@@ -1,0 +1,24 @@
+{
+  "name": "graphqlwithapllo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OHAHNIT/graphqlWithApollo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OHAHNIT/graphqlWithApollo/issues"
+  },
+  "homepage": "https://github.com/OHAHNIT/graphqlWithApollo#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.1",
+    "global": "^4.4.0",
+    "react": "^17.0.1"
+  }
+}
